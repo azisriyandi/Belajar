@@ -1,4 +1,4 @@
-package Belajar;
+package Belajar.LogikaBilangan;
 
 import java.util.Scanner;
 

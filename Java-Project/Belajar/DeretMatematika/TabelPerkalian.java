@@ -1,4 +1,4 @@
-package Belajar;
+package Belajar.DeretMatematika;
 
 import java.util.Scanner;
 
